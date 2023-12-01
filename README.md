@@ -1,7 +1,7 @@
 ### Olá, eu sou a Andrea!👋
-#### Seja bem vindo ao meu github! 
+#### Seja bem vindo ao meu GitHub! 
 
-Uma eterna aprendiz, com o intuito de mudar de carreira resolvi iniciar os estudos na área de desenvolvimento de software, desde então, surgiram várias dúvidas se era isso mesmo que eu queria e ao passar do tempo percebi, tive a certeza que sim, ser desenvolvedora é o que almejo para minha vida, por vários fatores, como por exemplo, o crescimento profissional e o amplo conhecimento que é possível adquirir. 
+Com o intuito de mudar de carreira iniciei os estudos na área de desenvolvimento de software, ser desenvolvedora é o que almejo, por vários fatores, pois A possibilidade de construir soluções em um mundo tecnológico que está em constante evolução me enche de esperanças, para proporcionar algo muito melhor e maior, quebrando barreiras e alcançando o inimaginável.  
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dea-santos-dev)
@@ -12,12 +12,12 @@ Uma eterna aprendiz, com o intuito de mudar de carreira resolvi iniciar os estud
     <img width="41%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Santos20&layout=compact&hide_border=true&title_color=00a000&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## Tecnologias que uso:
+## 💻Tecnologias que utilizo:
 
 <div style="display: inline_block">
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img  align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img algin="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img  align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>

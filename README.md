@@ -1,7 +1,7 @@
 ### Olá, eu sou a Andrea!👋
 #### Seja bem vindo ao meu GitHub! 
 
-Com o intuito de mudar de carreira iniciei os estudos na área de desenvolvimento de software, ser desenvolvedora é o que almejo, por vários fatores, pois A possibilidade de construir soluções em um mundo tecnológico que está em constante evolução me enche de esperanças, para proporcionar algo muito melhor e maior, quebrando barreiras e alcançando o inimaginável.  
+Com o intuito de mudar de carreira iniciei os estudos na área de desenvolvimento de software, ser desenvolvedora é o que almejo, por vários fatores, pois a possibilidade de construir soluções em um mundo tecnológico que está em constante evolução me enche de esperanças, para proporcionar algo muito melhor e maior, quebrando barreiras e alcançando o inimaginável.  
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dea-santos-dev)

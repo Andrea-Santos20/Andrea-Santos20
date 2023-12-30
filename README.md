@@ -1,7 +1,11 @@
-### Olá, eu sou a Andrea!👋
 #### Seja bem vindo ao meu GitHub! 
 
-Com o intuito de mudar de carreira iniciei os estudos na área de desenvolvimento de software, ser desenvolvedora é o que almejo, por vários fatores, pois a possibilidade de construir soluções em um mundo tecnológico que está em constante evolução me enche de esperanças, para proporcionar algo muito melhor e maior, quebrando barreiras e alcançando o inimaginável.  
+### Sobre mim:
+- 😃Olá, sou a Andrea!
+- 💻Desenvolvedora Front-end.
+- 🏡Região de Carapicuíba/SP.
+- 📚Atualmente estudo React.js.
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dea-santos-dev)
@@ -12,7 +16,7 @@ Com o intuito de mudar de carreira iniciei os estudos na área de desenvolviment
     <img width="41%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Santos20&layout=compact&hide_border=true&title_color=00a000&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## 💻Tecnologias que utilizo:
+## 💻Tecnologias utilizadas:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

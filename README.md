@@ -1,6 +1,6 @@
-#### Seja bem vindo ao meu GitHub! 
+### Seja bem vindo ao meu GitHub! 
 
-### Sobre mim:
+#### Sobre mim:
 - 😃Olá, sou a Andrea!
 - 💻Desenvolvedora Front-end.
 - 🏡Região de Carapicuíba/SP.

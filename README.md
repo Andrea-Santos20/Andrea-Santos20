@@ -1,15 +1,19 @@
-### Seja bem vindo ao meu GitHub! 
+### Seja bem-vindo(a) ao meu GitHub! 
 
 #### Sobre mim:
 - 😃Olá, sou a Andrea!
+- 🙋‍♀️Tenho 41 anos.
 - 💻Desenvolvedora Front-end.
-- 🏡Região de Carapicuíba/SP.
+- 🏡Carapicuíba/SP.
 - 📚Atualmente estudo React.js.
 
 
+<div>
+     <a width="45%" height="150px" href="https://www.linkedin.com/in/dea-santos-dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+     <a width="45%" height="150px" href="mailto:deasantos.dev@gmail.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the- badge&logo=gmail&logoColor=white" target="_blank"></a>       
+     <a width="45%" height="150px" href="https://www.instagram.com/dea.lua.santos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dea-santos-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deasantos.dev@gmail.com)
 
 <div align="center">
      <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=Andrea-Santos20&show_icons=true&count_private=true&hide_border=true&title_color=00a000&icon_color=00a000&text_color=c9d1d9&bg_color=0d1117&rank_icon=github"/> 

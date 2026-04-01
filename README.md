@@ -3,35 +3,24 @@
 #### 💡 Sobre mim
 Olá! Eu sou a **Andrea Santos**, tenho 43 anos e moro em **Carapicuíba/SP**.  
 
-Atualmente estou em processo de transição de carreira para Tecnologia, estudando e praticando desenvolvimento web com **React** no front-end e **Node.js/ Java** no back-end, além de bancos de dados relacionais.
+Atualmente, estou em transição de carreira para a área de Tecnologia, estudando e praticando desenvolvimento web com **React** no front-end e **Node.js** ou **Java** no back-end, além de bancos de dados relacionais.
 
 Tenho perfil organizado, persistente e orientado à resolução de problemas, sempre buscando evoluir tecnicamente e consolidar minha base como desenvolvedora.
 
 ---
 
-#### 📬 Onde me encontrar
+### 📬 Onde me encontrar
 
-<div>
-  <a href="https://www.linkedin.com/in/dea-santos-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<div align="left">
+  <a href="https://www.linkedin.com/in/dea-santos-dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
   </a>
-  <a href="mailto:deasantos.dev@gmail.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:deasantos.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="35">
   </a>
-  <a href="https://www.instagram.com/dea.lua.santos/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/dea.lua.santos/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="35">
   </a>
-</div>
-
----
-
-#### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img width="49%" height="185px"
-       src="https://github-readme-stats.vercel.app/api?username=Andrea-Santos20&show_icons=true&count_private=true&hide_border=true&title_color=00a000&icon_color=00a000&text_color=c9d1d9&bg_color=0d1117&rank_icon=github"/>
-  <img width="41%" height="185px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Santos20&layout=compact&hide_border=true&title_color=00a000&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 ---
@@ -63,12 +52,12 @@ Tenho perfil organizado, persistente e orientado à resolução de problemas, se
 
 ## 📚 Atualmente em aprendizado
 
-- 🔹 Node.js com Express
-- 🔹 Java com Srping Boot
-- 🔹 APIs REST
-- 🔹 Integração Front-end ↔ Back-end
-- 🔹 Banco de dados relacionais
-- 🔹 Boas práticas de versionamento com Git e GitHub
+🔹 Node.js com Express <br>
+🔹 Java com Spring Boot <br>
+🔹 APIs REST <br>
+🔹 Integração Front-end ↔ Back-end <br>
+🔹 Bancos de dados relacionais <br>
+🔹 Boas práticas de versionamento com Git e GitHub
 
 ---
 
